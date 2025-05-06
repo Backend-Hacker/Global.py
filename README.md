@@ -1,0 +1,1 @@
+Global variance and Operator
